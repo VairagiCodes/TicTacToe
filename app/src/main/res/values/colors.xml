@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/appColor</color>
+    <color name="colorPrimaryDark">@color/appColor</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="appColor">#FFDE03</color>
+    <color name="subColor">#0336ff</color>
+    <color name="thirdColor">#FF0266</color>
+</resources>
